@@ -1,0 +1,62 @@
+{
+  "identifier": "id",
+  "label": "label",
+  "id": "root",
+  "items": [
+    {
+      "id": "node_1",
+      "label": "node_1_label",
+      "items": [
+        {
+          "id": "node_2",
+          "label": "node_2_label",
+          "items": [
+            {
+              "id": "node_2_1",
+              "label": "node_2_1_label",
+              "layerType": "dynamic",
+              "shapeType": "point",
+              "url": "dynamic_service_url"
+            }, {
+              "id": "node_2_2",
+              "label": "node_2_2_label",
+              "layerType": "dynamic",
+              "shapeType": "line",
+              "url": "dynamic_service_url"
+            }, {
+              "id": "node_2_3",
+              "label": "node_2_3_label",
+              "layerType": "tiled",
+              "shapeType": "polygon",
+              "url": "tiled_service_url"
+            }, {
+              "id": "node_2_4",
+              "label": "node_2_4_label",
+              "layerType": "tiled",
+              "shapeType": "polygon",
+              "url": "tiled_service_url"
+            }
+          ]
+        }, {
+          "id": "node_3",
+          "label": "node_3_label",
+          "items": [
+            {
+              "id": "node_3_1",
+              "label": "node_3_1_label",
+              "items": []
+            }, {
+              "id": "node_3_2",
+              "label": "node_3_2_label",
+              "items": []
+            }, {
+              "id": "node_3_3",
+              "label": "node_3_3_label",
+              "items": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

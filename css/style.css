@@ -1,0 +1,18 @@
+.jimu-widget-ServiceDirectory div:first-child{
+  /*color: red;*/
+}
+
+.jimu-widget-ServiceDirectory .sd-tree-group-icon {
+    background-image: url('../images/MapPackageMPKFile16.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 16px;
+    height: 16px;
+}
+.jimu-widget-ServiceDirectory .sd-tree-layer-icon {
+    background-image: url('../images/MapServiceDefinitionMSDFile16.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 16px;
+    height: 16px;
+}
